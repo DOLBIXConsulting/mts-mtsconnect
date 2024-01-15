@@ -1,0 +1,3 @@
+div.contextual a[data-method="delete"]{
+  display: none;
+}
