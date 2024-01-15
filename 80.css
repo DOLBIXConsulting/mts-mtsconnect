@@ -1,0 +1,10 @@
+body.controller-issues.action-index div#context-menu a[data-method="delete"],
+body.controller-my.action-page div#context-menu a[data-method="delete"],
+body.controller-versions.action-index div#context-menu a[data-method="delete"],
+body.controller-versions.action-show div#context-menu a[data-method="delete"],
+body.controller-gantts.action-show div#context-menu a[data-method="delete"],
+body.controller-calendars.action-show div#context-menu a[data-method="delete"],
+body.controller-issues_panel.action-index div#context-menu a[data-method="delete"]
+{
+  display: none;
+}
