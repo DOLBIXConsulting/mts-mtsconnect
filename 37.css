@@ -1,0 +1,14 @@
+/* チケット画面右上の「プロジェクトへ移動」の検索プルダウンの表示幅変更 */
+#project-jump .drdn-content {
+    width: 400px;
+}
+
+/* プロジェクトページのプロジェクト検索プルダウンの横幅変更 */
+fieldset#filters td.values select {
+    max-width: 420px;
+}
+
+/* サイドバーの横幅変更 */
+#sidebar {
+    width: 220px;
+}
