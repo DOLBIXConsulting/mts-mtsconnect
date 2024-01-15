@@ -1,0 +1,29 @@
+	
+.lgc-chart::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+/* スクロールバーの形を設定する */
+.lgc-chart::-webkit-scrollbar-thumb {
+  border-radius: 0.25rem;
+}
+/* スクロールバーの色を設定する */
+.lgc-chart::-webkit-scrollbar-thumb {
+  --bg-opacity: 1;
+  background-color: #a9a9a9;
+}
+
+
+.lgc-fixedScrollBar::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+/* スクロールバーの形を設定する */
+.lgc-fixedScrollBar::-webkit-scrollbar-thumb {
+  border-radius: 0.25rem;
+}
+/* スクロールバーの色を設定する */
+.lgc-fixedScrollBar::-webkit-scrollbar-thumb {
+  --bg-opacity: 1;
+  background-color: #a9a9a9;
+}
