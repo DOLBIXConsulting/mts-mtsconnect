@@ -1,0 +1,65 @@
+.select2-hidden-accessible {
+    vertical-align: middle !important;
+    margin-top: 1px !important;
+    margin-bottom: 1px !important;
+    padding-left: 7px !important;
+    border-top-width: 1px !important;
+    border-right-width: 1px !important;
+    border-bottom-width: 1px !important;
+    border-left-width: 1px !important;
+    border-top-style: solid !important;
+    border-right-style: solid !important;
+    border-bottom-style: solid !important;
+    border-left-style: solid !important;
+    border-top-color: rgb(204, 204, 204) !important;
+    border-right-color: rgb(204, 204, 204) !important;
+    border-bottom-color: rgb(204, 204, 204) !important;
+    border-left-color: rgb(204, 204, 204) !important;
+    clip: initial !important;
+    height: 24px !important;
+    margin: -1px !important;
+    overflow: initial !important;
+    position: initial !important;
+    width: 60% !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    visibility: hidden;
+    color: initial !important;
+    line-height: initial !important;
+}
+.select2-container--default .select2-selection--single {
+    visibility: hidden;
+    background-color: initial !important;
+    border: initial !important;
+    border-radius: initial !important;
+}
+.select2-container {
+    visibility: hidden;
+    box-sizing: initial !important;
+    display: initial !important;
+    margin: initial !important;
+    position: initial !important;
+    vertical-align: initial !important;
+}
+.select2-container .select2-selection--single {
+    visibility: hidden;
+    box-sizing: initial !important;
+    cursor: initial !important;
+    display: initial !important;
+    height: initial !important;
+    user-select: initial !important;
+    -webkit-user-select: initial !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    visibility: hidden;
+    border-color: initial !important;
+    border-style: initial !important;
+    border-width: initial !important;
+    height: initial !important;
+    left: initial !important;
+    margin-left: initial !important;
+    margin-top: initial !important;
+    position: initial !important;
+    top: initial !important;
+    width: initial !important;
+}
