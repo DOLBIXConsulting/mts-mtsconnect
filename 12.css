@@ -1,0 +1,25 @@
+.lgc-chart-bar__done {
+  background: #dcdcdc !important;
+  border-color: #696969 !important;
+}
+
+.lgc-chart-parallelView-item .lgc-chart-bar__done {
+  background: #dcdcdc !important;
+}
+
+.lgc-chart-bar__late {
+  background: #fffb19 !important;
+}
+
+.lgc-chart-parallelView-item .lgc-chart-bar__late {
+  background: #fffb19 !important;
+}
+
+.lgc-chart-bar__todo {
+  background: #b0c4de !important;
+  border-color: #008000 !important;
+}
+
+.lgc-chart-parallelView-item .lgc-chart-bar__todo {
+  background:  #b0c4de !important;
+}
