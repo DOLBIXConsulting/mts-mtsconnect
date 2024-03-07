@@ -164,7 +164,6 @@ $(function(){
       $('select#issue_group_id option[value=173]').remove();
       $('select#issue_group_id option[value=169]').remove();
       $('select#issue_group_id option[value=168]').remove();
-      $('select#issue_group_id option[value=155]').remove();
       $('select#issue_group_id option[value=154]').remove();
       $('select#issue_group_id option[value=97]').remove();
       $('select#issue_group_id option[value=6]').remove();
@@ -172,25 +171,10 @@ $(function(){
       $('select#issue_group_id option[value=12]').remove();
       $('select#issue_group_id option[value=98]').remove();
       $('select#issue_group_id option[value=99]').remove();
-      $('select#issue_group_id option[value=135]').remove();
       $('select#issue_group_id option[value=149]').remove();
-      $('select#issue_group_id option[value=146]').remove();
-      $('select#issue_group_id option[value=138]').remove();
-      $('select#issue_group_id option[value=143]').remove();
-      $('select#issue_group_id option[value=144]').remove();
-      $('select#issue_group_id option[value=137]').remove();
-      $('select#issue_group_id option[value=145]').remove();
-      $('select#issue_group_id option[value=141]').remove();
-      $('select#issue_group_id option[value=142]').remove();
-      $('select#issue_group_id option[value=140]').remove();
-      $('select#issue_group_id option[value=139]').remove();
-      $('select#issue_group_id option[value=148]').remove();
-      $('select#issue_group_id option[value=147]').remove();
-      $('select#issue_group_id option[value=136]').remove();
       $('select#issue_group_id option[value=164]').remove();
-      $('select#issue_group_id option[value=166]').remove();
      //2023.7.03追加
-      $('select#issue_group_id option[value=179]').remove();
+      //$('select#issue_group_id option[value=179]').remove();
     } else if (tracker_id == '14') { // MTS技師
       $('select#issue_group_id option[value=182]').remove();
       $('select#issue_group_id option[value=183]').remove();
